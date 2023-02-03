@@ -1,4 +1,4 @@
-# HIAEDataAnalyst
+# DataAnalyst_Covid
 <br>
 
 Na pasta`src/create_table` contém as tabelas para análise. Os arquivos `.sql` contêm as queries para criação das tabelas.
